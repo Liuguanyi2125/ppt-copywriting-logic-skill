@@ -1,4 +1,4 @@
-# PPT 文案逻辑梳理 Skill
+# 方源 PPT 单页逻辑梳理 Skill
 
 作者：方源
 
@@ -21,13 +21,13 @@
 
 ```bash
 mkdir -p ~/.codex/skills
-git clone https://github.com/Liuguanyi2125/ppt-copywriting-logic-skill.git ~/.codex/skills/PPT\ 文案逻辑梳理
+git clone https://github.com/Liuguanyi2125/ppt-copywriting-logic-skill.git ~/.codex/skills/方源\ PPT\ 单页逻辑梳理
 ```
 
 重启 Codex，或刷新 skill 列表后，使用下面这类表达触发：
 
 ```text
-用 PPT 文案逻辑梳理 skill，帮我把这段材料整理成一页 PPT
+用方源 PPT 单页逻辑梳理 skill，帮我把这段材料整理成一页 PPT
 这页 PPT 逻辑怎么排？
 帮我梳理 PPT 文案和页面结构
 ```
@@ -36,7 +36,7 @@ git clone https://github.com/Liuguanyi2125/ppt-copywriting-logic-skill.git ~/.co
 
 ```bash
 mkdir -p ~/.claude/skills
-git clone https://github.com/Liuguanyi2125/ppt-copywriting-logic-skill.git ~/.claude/skills/PPT\ 文案逻辑梳理
+git clone https://github.com/Liuguanyi2125/ppt-copywriting-logic-skill.git ~/.claude/skills/方源\ PPT\ 单页逻辑梳理
 ```
 
 ## 使用方式
@@ -44,7 +44,7 @@ git clone https://github.com/Liuguanyi2125/ppt-copywriting-logic-skill.git ~/.cl
 把原始材料直接贴给模型，然后说：
 
 ```text
-请用「PPT 文案逻辑梳理」skill 处理：
+请用「方源 PPT 单页逻辑梳理」skill 处理：
 
 【受众】
 老板 / 客户 / 学生 / 评委
@@ -59,7 +59,7 @@ git clone https://github.com/Liuguanyi2125/ppt-copywriting-logic-skill.git ~/.cl
 如果只想练习，可以说：
 
 ```text
-带我练 PPT 文案逻辑梳理，我只想做选择题。
+带我练方源 PPT 单页逻辑梳理，我只想做选择题。
 ```
 
 ## 输出内容
